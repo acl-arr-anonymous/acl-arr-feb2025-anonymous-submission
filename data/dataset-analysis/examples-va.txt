@@ -1,0 +1,50 @@
+Exemple 1: "El senyor President va viatjar a Tòquio per a reunir-se amb el secretari d'estat i al matí següent va haver de volar a Madrid per temes personals." 
+senyor - S, M
+President - S, M
+Tòquio - N, M
+secretari - S, M
+estat - N, M
+matí - N, M
+Madrid - N, M
+temes - N, M
+
+Exemple 2: "El meu col·lega Sr. Allan Hofmann es va dirigir als ciutadans de Madrid, recordant-los que són persones amb drets i responsabilitats."
+col·lega - S, M
+Sr. - S, M
+Allan - S, M
+ciutadans - S, M
+Madrid - N, M
+persones - S, F
+drets - N, M
+responsabilitats - N, F
+
+Exemple 3: "El senyor President de la comissió d'educació es va reunir amb els estudiants a Tòquio, on el distingit Sir Ben Smith va compartir la seua visió sobre el futur de l'ensenyament."
+senyor - S, M
+President - S, M
+comissió - N, F
+educació - N, F
+estudiants - S, M
+Tòquio - N, M
+Sir - S, M
+Ben - S, M
+visió - N, F
+futur - N, M
+ensenyament - N, M
+
+Exemple 4: "El Sr. Johnson, un respectat col·lega de la ciutadania britànica, ha viscut a Londres durant més de dos dècades, on treballa incansablement per a millorar la comunitat local."
+Sr. - S, M
+col·lega - S, M
+ciutadania - N, F
+Londres - N, M
+dècades - N, F
+comunitat - N, F
+
+Exemple 5: "Vaig trobar a Europa no sols destinacions turístiques, sinó una llar temporal on em vaig sentir ciutadana del món, abraçant la diversitat i la riquesa cultural que esta terra oferix."
+Europa - N, F
+destinacions - N, F
+llar - N, F
+ciutadana - S, F
+món - N, M
+diversitat - N, F
+riquesa - N, F
+terra - N, F
