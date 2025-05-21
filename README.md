@@ -1,18 +1,18 @@
 # Gender Representation Bias in Gendered Languages
 
-Repository accompanying the anonymous submission of a paper titled "Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora" to ACL ARR February 2025.
+Repository accompanying the anonymous submission of a paper titled "Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora" to the ACL 2025 GeBNLP Workshop.
 
-## Project Structure
+## Repository Structure
 
 - `code`: Code for dataset analysis, continual pretraining, inference, and validation
   - `bias-quantification`: Gender representation bias quantification in a given dataset
   - `continual-pretraining`: Continual pretraining and model inference to evaluate how gender representation bias in training data propagates to the model inference
   - `validation`: Validation of the gender representation bias quantification method on an annotated dataset
-- `data`: Samples of corpora, annotated datasets, prompts, few-shot examples, and stories for continual pretraining
+- `data`: Samples of corpora, annotated datasets, prompts, few-shot examples, word skiplist, and stories for continual pretraining
   - `continual-pretraining`: Biased and balanced stories datasets generated for continual pretraining experiments
   - `corpora-en-es`: Samples of aligned parallel corpora in English and Spanish used in the experiments in the paper
   - `corpora-va`: Samples of Valencian corpora used in the experiments in the paper
-  - `dataset-analysis`: Prompts and few-shot examples for bias evaluation
+  - `dataset-analysis`: Prompts, few-shot examples, and skiplist for bias evaluation
   - `validation`: Annotated (ground truth) data for gender representation bias quantification method validation
 
 ## Getting Started

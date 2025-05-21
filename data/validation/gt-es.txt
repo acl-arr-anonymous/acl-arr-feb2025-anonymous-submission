@@ -5,15 +5,15 @@ sesiones - N, F
 fin - N, M
 espaldas - N, F"
 
-"Señor Presidente, sobre la misma cuestión, el Grupo Socialista apoya a los demás Grupos en su petición de una declaración del Comisario Sr. Brittan." "Señor - S, M
-Presidente - S, M
+"Señor Presidente, sobre la misma cuestión, el Grupo Socialista apoya a los demás Grupos en su petición de una declaración del Comisario Sr. Brittan." "Señor - P, M
+Presidente - P, M
 cuestión - N, F
 Grupo - N, M
 Grupos - N, M
 petición - N, F
 declaración - N, F
-Comisario - S, M
-Sr. - S, M"
+Comisario - P, M
+Sr. - P, M"
 
 "Durante estos últimos meses hemos intentado averiguar cuándo exactamente va a difundir el contenido del estudio que han llevado a cabo los servicios de su departamento." "meses - N, M
 contenido - N, M
@@ -23,7 +23,7 @@ departamento - N, M"
 
 "Algunas filtraciones a la prensa apuntan a que el Comisario se inclinaba por una tasa sobre las importaciones de salmón noruego, pero que ahora le da miedo seguir por ese camino." "filtraciones - N, F
 prensa - N, F
-Comisario - S, M
+Comisario - P, M
 tasa - N, F
 importaciones - N, F
 salmón - N, M
@@ -36,9 +36,9 @@ resultados - N, M
 pasado - N, M
 Parlamento - N, M"
 
-"Por ello, tal y como ha propuesto el Sr. Provan, espero que Sir Leon Brittan haga una declaración completa y sincera a la Asamblea el lunes o el martes del próximo período parcial de sesiones en Estrasburgo sobre la situación actual de esta cuestión tan seria, que afecta a miles de puestos de trabajo en Escocia, Irlanda y otras partes de la Comunidad." "Sr. - S, M
-Sir - S, M
-Leon - S, M
+"Por ello, tal y como ha propuesto el Sr. Provan, espero que Sir Leon Brittan haga una declaración completa y sincera a la Asamblea el lunes o el martes del próximo período parcial de sesiones en Estrasburgo sobre la situación actual de esta cuestión tan seria, que afecta a miles de puestos de trabajo en Escocia, Irlanda y otras partes de la Comunidad." "Sr. - P, M
+Sir - P, M
+Leon - P, M
 declaración - N, F
 Asamblea - N, F
 lunes - N, M
@@ -56,21 +56,21 @@ Irlanda - N, F
 partes - N, F
 Comunidad - N, F"
 
-"Señor Presidente, provengo de una región periférica en la que dependemos en gran medida de la pesca y de la acuicultura, ya que no tenemos ninguna otra fuente alternativa de empleo, por lo que apoyo plenamente a mi colega Allan Macartney de Escocia." "Señor - S, M
-Presidente - S, M
+"Señor Presidente, provengo de una región periférica en la que dependemos en gran medida de la pesca y de la acuicultura, ya que no tenemos ninguna otra fuente alternativa de empleo, por lo que apoyo plenamente a mi colega Allan Macartney de Escocia." "Señor - P, M
+Presidente - P, M
 región - N, F
 medida - N, F
 pesca - N, F
 acuicultura - N, F
 fuente - N, F
 empleo - N, M
-colega - S, M
-Allan - S, M
+colega - P, M
+Allan - P, M
 Escocia - N, F"
 
-"Debemos preguntarnos ¿a quién representamos? ¿Representamos a los ciudadanos, a los pescadores y a los acuicultores de la Unión o a los intereses de terceros países?" "ciudadanos - S, M
-pescadores - S, M
-acuicultores - S, M
+"Debemos preguntarnos ¿a quién representamos? ¿Representamos a los ciudadanos, a los pescadores y a los acuicultores de la Unión o a los intereses de terceros países?" "ciudadanos - P, M
+pescadores - P, M
+acuicultores - P, M
 Unión - N, F
 intereses - N, M
 países - N, M"
@@ -79,9 +79,9 @@ países - N, M"
 postura - N, F
 actuación - N, F"
 
-"Señor Presidente, me alegra que el Sr. Macartney haya planteado esta cuestión." "Señor - S, M
-Presidente - S, M
-Sr. - S, M
+"Señor Presidente, me alegra que el Sr. Macartney haya planteado esta cuestión." "Señor - P, M
+Presidente - P, M
+Sr. - P, M
 cuestión - N, F"
 
 "Es un asunto importante que afecta a la posición de esta Asamblea y a sus relaciones con la Comisión." "asunto - N, M
@@ -108,7 +108,7 @@ Unión - N, F"
 
 "Pero mi última visita a la India también me ha demostrado lo vulnerables que se sienten los artistas ante la presión de las masas en la calle." "visita - N, F
 India - N, F
-artistas - S, M
+artistas - P, M
 presión - N, F
 masas - N, F
 calle - N, F"
@@ -124,31 +124,31 @@ Bollywood - N, M
 iniciativas - N, F
 intimidación - N, F"
 
-"Lamentablemente, los profesionales de la industria de las artes audiovisuales parecen buscar sistemáticamente la aprobación de los autoproclamados guardianes de los sentimientos religiosos antes de proseguir con una película que aborda asuntos sociales." "profesionales - S, M
+"Lamentablemente, los profesionales de la industria de las artes audiovisuales parecen buscar sistemáticamente la aprobación de los autoproclamados guardianes de los sentimientos religiosos antes de proseguir con una película que aborda asuntos sociales." "profesionales - P, M
 industria - N, F
 artes - N, F
 aprobación - N, F
-guardianes - S, M
+guardianes - P, M
 sentimientos - N, M
 película - N, F
 asuntos - N, M"
 
 "Esto indica lo importante que es la contribución del artista al diálogo intercultural, o al menos lo importante que podría ser." "contribución - N, F
-artista - S, M
+artista - P, M
 diálogo - N, M"
 
-"Los periodistas y los abogados también pueden influir, especialmente cuando sus afirmaciones y acciones trascienden las líneas religiosas." "periodistas - S, M
-abogados - S, M
+"Los periodistas y los abogados también pueden influir, especialmente cuando sus afirmaciones y acciones trascienden las líneas religiosas." "periodistas - P, M
+abogados - P, M
 afirmaciones - N, F
 acciones - N, F
 líneas - N, F"
 
 "Hay innumerables ejemplos de personas que se han ayudado mutuamente cruzando todas las fronteras impuestas por las religiones." "ejemplos - N, M
-personas - S, F
+personas - P, F
 fronteras - N, F
 religiones - N, F"
 
-"Además -y esto es lo más importante- los políticos tendrían que celebrar sesiones conjuntas de búsqueda de ideas sobre el modo de afrontar los nuevos desafíos en un mundo cada vez más globalizado." "políticos - S, M
+"Además -y esto es lo más importante- los políticos tendrían que celebrar sesiones conjuntas de búsqueda de ideas sobre el modo de afrontar los nuevos desafíos en un mundo cada vez más globalizado." "políticos - P, M
 sesiones - N, F
 búsqueda - N, F
 ideas - N, F
@@ -157,7 +157,7 @@ desafíos - N, M
 mundo - N, M"
 
 "He votado a favor del excelente informe del señor Beazley sobre iniciativas que complementen los programas escolares ofreciendo medidas adecuadas de apoyo para la inclusión de la dimensión europea." "informe - N, M
-señor - S, M
+señor - P, M
 iniciativas - N, F
 programas - N, M
 medidas - N, F
@@ -167,8 +167,8 @@ dimensión - N, F"
 
 "A medida que avanza la construcción europea, todos percibimos cuán indispensable es destilar la cultura europea entre los ciudadanos, en especial los jóvenes: es una condición del éxito del proyecto europeo destinado a crear una civilización humanista." "construcción - N, F
 cultura - N, F
-ciudadanos - S, M
-jóvenes - S, M
+ciudadanos - P, M
+jóvenes - P, M
 condición - N, F
 éxito - N, M
 proyecto - N, M
@@ -186,7 +186,7 @@ dimensión - N, F"
 
 "Comparto plenamente las propuestas presentadas en este informe, en especial en cuanto asocia a los docentes a la integración de la dimensión europea en la enseñanza." "propuestas - N, F
 informe - N, M
-docentes - S, M
+docentes - P, M
 integración - N, F
 dimensión - N, F
 enseñanza - N, F"
@@ -208,28 +208,28 @@ dimensión - N, F"
 "Hay una serie de programas para el intercambio de profesores y para estudiantes como el programa ERASMUS/SOCRATES." "serie - N, F
 programas - N, M
 intercambio - N, M
-profesores - S, M
-estudiantes - S, M
+profesores - P, M
+estudiantes - P, M
 programa - N, M
 ERASMUS - N, M
 SOCRATES - N, M"
 
 "Sin embargo, en el Reino Unido existe un número más elevado de estudiantes que no conocen estas oportunidades y el Reino Unido se está quedando a la zaga de otros países a la hora de enviar estudiantes al extranjero." "Reino - N, M
 número - N, M
-estudiantes - S, M
+estudiantes - P, M
 oportunidades - N, F
 Reino - N, M
 zaga - N, F
 países - N, M
 hora - N, F
-estudiantes - S, M
+estudiantes - P, M
 extranjero - N, M"
 
 "Desde que el Gobierno laborista no obliga a estudiar idiomas para el bachillerato, el número de alumnos que estudia francés y alemán tan solo este año ha sido un 14 % inferior al del año anterior." "Gobierno - N, M
 idiomas - N, M
 bachillerato - N, M
 número - N, M
-alumnos - S, M
+alumnos - P, M
 francés - N, M
 alemán - N, M
 año - N, M
@@ -238,18 +238,18 @@ año - N, M"
 "Debido a la ambigüedad del lenguaje de la enmienda oral, los conservadores británicos no han podido aceptar este informe en su totalidad." "ambigüedad - N, F
 lenguaje - N, M
 enmienda - N, F
-conservadores - S, M
+conservadores - P, M
 informe - N, M
 totalidad - N, F"
 
-"Señor Presidente, sin duda alguna es cierto que la limpieza del aire es una cuestión vital para todos nosotros y también tenemos que tener en cuenta la realidad de que el gasto que comporta la mala calidad del aire en Europa es a los costes de aplicación para las empresas y la industria, pero las derogaciones y posibles ampliaciones recogidas en el documento de compromiso son demasiado complejas y es probable que planteen serios problemas administrativos, y por eso la delegación del Partido Popular de Austria ha rechazado la mayor parte de dichos compromisos." "Señor - S, M
-Presidente - S, M
+"Señor Presidente, sin duda alguna es cierto que la limpieza del aire es una cuestión vital para todos nosotros y también tenemos que tener en cuenta la realidad de que el gasto que comporta la mala calidad del aire en Europa es a los costes de aplicación para las empresas y la industria, pero las derogaciones y posibles ampliaciones recogidas en el documento de compromiso son demasiado complejas y es probable que planteen serios problemas administrativos, y por eso la delegación del Partido Popular de Austria ha rechazado la mayor parte de dichos compromisos." "Señor - P, M
+Presidente - P, M
 duda - N, F
 limpieza - N, F
 aire - N, M
 cuestión - N, F
-todos - S, M
-nosotros - S, M
+todos - P, M
+nosotros - P, M
 cuenta - N, F
 realidad - N, F
 gasto - N, M
@@ -293,7 +293,7 @@ controles - N, M
 "El motivo principal de mi decisión es el trato que reciben actualmente los ciudadanos malteses y gozitanos por parte de las autoridades del país." "motivo - N, M
 decisión - N, F
 trato - N, M
-ciudadanos - S, M
+ciudadanos - P, M
 autoridades - N, F
 país - N, M"
 
@@ -310,7 +310,7 @@ programa - N, M"
 
 "Las voy a recordar: estatuto social de los participantes y complementariedad de los Servicios Civiles Nacionales y el Servicio Voluntario Europeo." "Las - N, F
 estatuto - N, M
-participantes - S, M
+participantes - P, M
 complementariedad - N, F
 Servicios - N, M
 Servicio - N, M"
@@ -318,7 +318,7 @@ Servicio - N, M"
 "Hago hincapié en el hecho de que el Servicio Voluntario Europeo afecta, evidentemente, también a las mujeres jóvenes." "hincapié - N, M
 hecho - N, M
 Servicio - N, M
-mujeres - S, F"
+mujeres - P, F"
 
 "La información facilitada acerca del programa en los diferentes Estados, debería llamar la atención de ambos sexos sobre estas experiencias de trabajo en proyectos que se encuentran en el centro de nuestras prioridades, es decir, la protección del medio ambiente y del patrimonio cultural." "información - N, F
 programa - N, M
@@ -336,8 +336,8 @@ medio - N, M
 ambiente - N, M
 patrimonio - N, M"
 
-"Señor Presidente, cada vez más el voluntariado tiende a desempeñar una función propia que favorece la integración de las conciencias y abandona todo tipo de competencia con el Estado." "Señor - S, M
-Presidente - S, M
+"Señor Presidente, cada vez más el voluntariado tiende a desempeñar una función propia que favorece la integración de las conciencias y abandona todo tipo de competencia con el Estado." "Señor - P, M
+Presidente - P, M
 voluntariado - N, M
 función - N, F
 integración - N, F
@@ -348,7 +348,7 @@ Estado - N, M"
 
 "Este programa despierta un extraordinario interés entre los jóvenes." "programa - N, M
 interés - N, M
-jóvenes - S, M"
+jóvenes - P, M"
 
 "Frente a 2.100 posibilidades de admisión en toda la UE, sólo en Alemania existen 10.000 demandas." "posibilidades - N, F
 admisión - N, F
@@ -356,11 +356,11 @@ UE - N, F
 Alemania - N, F
 demandas - N, F"
 
-"Destaca que de los 223 participantes alemanes el 90 % sean mujeres. No obstante, debemos tener claro lo siguiente." "participantes - S, M
-mujeres - S, F"
+"Destaca que de los 223 participantes alemanes el 90 % sean mujeres. No obstante, debemos tener claro lo siguiente." "participantes - P, M
+mujeres - P, F"
 
 "A este interés tan vivo mostrado por los jóvenes, debe corresponder una infraestructura que recoja ese interés. No ha sido así hasta ahora. En algunos Estados apenas existe dicha infraestructura." "interés - N, M
-jóvenes - S, M
+jóvenes - P, M
 infraestructura - N, F
 interés - N, M
 Estados - N, M
@@ -423,14 +423,14 @@ actividades - N, F"
 "De manera especial, espero que se realice un mayor esfuerzo para fomentar la formación complementaria de todos los docentes que participen en la formación profesional y potenciar la formación profesional de las mujeres." "manera - N, F
 esfuerzo - N, M
 formación - N, F
-docentes - S, M
+docentes - P, M
 formación - N, F
 formación - N, F
-mujeres - S, F"
+mujeres - P, F"
 
 "En organizaciones grandes y mal organizadas, hay un gran margen para personas que, ocultas tras un muro de burocracia, quieren llenarse sus propios bolsillos." "organizaciones - N, F
 margen - N, M
-personas - S, F
+personas - P, F
 muro - N, M
 burocracia - N, F
 bolsillos - N, M"
@@ -438,14 +438,14 @@ bolsillos - N, M"
 "La Unión Europea es una de esas organizaciones grandes y mal organizadas, que ofrece inesperadas oportunidades a funcionarios, políticos y empresas que se ganan la vida con contratos europeos." "Unión - N, F
 organizaciones - N, F
 oportunidades - N, F
-funcionarios - S, M
-políticos - S, M
+funcionarios - P, M
+políticos - P, M
 empresas - N, F
 vida - N, F
 contratos - N, M"
 
-"En 1998 y 1999, D. Paul van Buitenen, que en aquel momento era funcionario de la Comisión, demostró las posibles consecuencias, con la dimisión de toda la Comisión Europea como posible desenlace." "Paul - S, M
-funcionario - S, M
+"En 1998 y 1999, D. Paul van Buitenen, que en aquel momento era funcionario de la Comisión, demostró las posibles consecuencias, con la dimisión de toda la Comisión Europea como posible desenlace." "Paul - P, M
+funcionario - P, M
 Comisión - N, F
 consecuencias - N, F
 dimisión - N, F
@@ -453,9 +453,9 @@ Comisión - N, F
 desenlace - N, M"
 
 "En estos momentos, Dña." "momentos - N, M
-Dña. - S, F"
+Dña. - P, F"
 
-"Marta Andreasen, que ha tomado el relevo a la hora de tirar de la manta, está demostrando que la administración financiera es insuficiente para prevenir cualquier tipo de fraude." "Marta - S, F
+"Marta Andreasen, que ha tomado el relevo a la hora de tirar de la manta, está demostrando que la administración financiera es insuficiente para prevenir cualquier tipo de fraude." "Marta - P, F
 relevo - N, M
 hora - N, F
 manta - N, F
@@ -465,10 +465,10 @@ fraude - N, M"
 
 "Desgraciadamente, sus esfuerzos de mejora no han sido apreciados por todos, y se le ha forzado a dejar su trabajo." "esfuerzos - N, M
 mejora - N, F
-todos - S, M
+todos - P, M
 trabajo - N, M"
 
-"Parece que hay personas que no van a ganar nada con las mejoras." "personas - S, F
+"Parece que hay personas que no van a ganar nada con las mejoras." "personas - P, F
 nada - N, F
 mejoras - N, F"
 
@@ -479,7 +479,7 @@ importe - N, M
 millones - N, M
 euros - N, M"
 
-"El ponente tiene razón cuando prefiere la posibilidad que existe desde hace 10 años de excluir de los contratos a las empresas que cometan fraudes, a la sensibilidad al fraude de los fondos y a la conveniencia de la existencia de un fiscal europeo." "ponente - S, M
+"El ponente tiene razón cuando prefiere la posibilidad que existe desde hace 10 años de excluir de los contratos a las empresas que cometan fraudes, a la sensibilidad al fraude de los fondos y a la conveniencia de la existencia de un fiscal europeo." "ponente - P, M
 razón - N, F
 posibilidad - N, F
 años - N, M
@@ -491,7 +491,7 @@ fraude - N, M
 fondos - N, M
 conveniencia - N, F
 existencia - N, F
-fiscal - S, M"
+fiscal - P, M"
 
 "No obstante, es probable que todas las medidas propuestas juntas tengan menos efectos que la descentralización y la reducción del tamaño de la organización." "medidas - N, F
 efectos - N, M
@@ -509,11 +509,11 @@ país - N, M
 efecto - N, M
 región - N, F"
 
-"Por lo tanto, es esencial que todos los actores internacionales implicados, en lugar de jugar con los miles de factores potenciales de división existentes, como algunos no han dudado en hacer en el Congo, actúen con la máxima responsabilidad, absteniéndose de fomentar algo que podría dar lugar, antes o después, a una balcanización de facto de Côte d'Ivoire y arrastrar al país a una situación similar a la del Congo." "actores - S, M
+"Por lo tanto, es esencial que todos los actores internacionales implicados, en lugar de jugar con los miles de factores potenciales de división existentes, como algunos no han dudado en hacer en el Congo, actúen con la máxima responsabilidad, absteniéndose de fomentar algo que podría dar lugar, antes o después, a una balcanización de facto de Côte d'Ivoire y arrastrar al país a una situación similar a la del Congo." "actores - P, M
 lugar - N, M
 factores - N, M
 división - N, F
-algunos - S, M
+algunos - P, M
 Congo - N, M
 responsabilidad - N, F
 algo - N, M
@@ -530,7 +530,7 @@ cooperación - N, F
 forma - N, F
 colaboración - N, F
 procesamiento - N, M
-delincuentes - S, M
+delincuentes - P, M
 seno - N, M
 UE - N, F"
 
@@ -571,12 +571,12 @@ evasión - N, F"
 voto - N, M
 informe - N, M"
 
-"Señor Presidente, con motivo de los debates que hoy celebramos sobre esta cuestión, como ciudadana finlandesa no puedo dejar de pensar en la mañana de setiembre del año 1994, en que me enteré de la catástrofe del Estonia." "Señor - S, M
-Presidente - S, M
+"Señor Presidente, con motivo de los debates que hoy celebramos sobre esta cuestión, como ciudadana finlandesa no puedo dejar de pensar en la mañana de setiembre del año 1994, en que me enteré de la catástrofe del Estonia." "Señor - P, M
+Presidente - P, M
 motivo - N, M
 debates - N, M
 cuestión - N, F
-ciudadana - S, F
+ciudadana - P, F
 mañana - N, F
 setiembre - N, F
 año - N, M
@@ -584,13 +584,13 @@ catástrofe - N, F
 Estonia - N, F"
 
 "Se trata de un suceso que los navegantes finlandeses nunca olvidarán." "suceso - N, M
-navegantes - S, M"
+navegantes - P, M"
 
 "Me satisface que se señale el accidente del Herald of Free Enterprise en el informe, pero es de igual importancia que recordemos a las víctimas del Estonia." "accidente - N, M
 Herald of Free Enterprise - N, M
 informe - N, M
 importancia - N, F
-víctimas - S, F
+víctimas - P, F
 Estonia - N, M"
 
 "Hemos de aprender algo de todo esto, lo cual demuestran los dos informes." "algo - N, M
@@ -607,7 +607,7 @@ aguas - N, F
 mar - N, M
 Báltico - N, M
 cuenta - N, F
-navegantes - S, M
+navegantes - P, M
 vez - N, F
 tráfico - N, M
 región - N, F"
@@ -623,13 +623,13 @@ Consejo - N, M"
 
 "Espero que también el Parlamento logre llegar a una mejor protección de las personas, y a ciertas excepciones para el tráfico de pasajeros que suben y bajan frecuentemente del transbordador (que corresponda al tráfico ferroviario de pasajeros), por ejemplo con respecto al tráfico que tenemos en el archipiélago en aguas finlandesas." "Parlamento - N, M
 protección - N, F
-personas - S, F
+personas - P, F
 excepciones - N, F
 tráfico - N, M
-pasajeros - S, M
+pasajeros - P, M
 transbordador - N, M
 tráfico - N, M
-pasajeros - S, M
+pasajeros - P, M
 ejemplo - N, M
 respecto - N, M
 tráfico - N, M
@@ -646,13 +646,13 @@ registro - N, M"
 "En términos generales, la directiva es buena y las propuestas del Sr. Watts la fortalecen en muchos aspectos." "términos - N, M
 directiva - N, F
 propuestas - N, F
-Sr. - S, M
+Sr. - P, M
 aspectos - N, M"
 
-"Señor Presidente me voy a referir al informe del Sr. Parodi sobre el nivel mínimo de formación de las profesiones marítimas." "Señor - S, M
-Presidente - S, M
+"Señor Presidente me voy a referir al informe del Sr. Parodi sobre el nivel mínimo de formación de las profesiones marítimas." "Señor - P, M
+Presidente - P, M
 informe - N, M
-Sr. - S, M
+Sr. - P, M
 nivel - N, M
 formación - N, F
 profesiones - N, F"
@@ -671,7 +671,7 @@ conferencia - N, F
 años - N, M
 vistas - N, F
 avances - N, M
-mujeres - S, F
+mujeres - P, F
 esferas - N, F
 igualdad - N, F
 desarrollo - N, M
@@ -682,7 +682,7 @@ Comisión - N, F
 Estados - N, M
 miembros - N, M
 violencia - N, F
-mujeres - S, F
+mujeres - P, F
 nivel - N, M
 local - N, M
 trabajo - N, M
@@ -690,7 +690,7 @@ sociedad - N, F
 conflictos - N, M"
 
 "El informe de las Sras.Gröner y Smet me permite insistir en un programa de acción discutible." "informe - N, M
-Sras. - S, F
+Sras. - P, F
 programa - N, M
 acción - N, F"
 
@@ -699,11 +699,11 @@ plataforma - N, F
 Pekín - N, M
 vías - N, F
 aplicación - N, F
-nosotros - S, M"
+nosotros - P, M"
 
 "Naturalmente, esto no es del todo lógico, señor Comisario." "esto - N, M
-señor - S, M
-Comisario - S, M"
+señor - P, M
+Comisario - P, M"
 
 "Paso ahora a la cuestión de la Agencia Veterinaria." "cuestión - N, F
 Agencia - N, F
@@ -711,9 +711,9 @@ Veterinaria - N, F"
 
 "Analizando el anteproyecto de 1998 he observado que en principio usted no ha reservado aquí nada para ella." "anteproyecto - N, M
 principio - N, M
-usted - S, M
+usted - P, M
 nada - N, F
-ella - S, F"
+ella - P, F"
 
 "En realidad, se trata del tema de un texto legislativo en consonancia con el deseo del Parlamento de reducir las emisiones de vehículos de motor que causan enormes daños al medio ambiente natural y a la salud humana." "realidad - N, F
 tema - N, M
@@ -738,7 +738,7 @@ partículas - N, F
 maquinaria - N, F
 carretera - N, F"
 
-"Para los que se interesan por esta cuestión diré que se trata de los tractores y de las máquinas segadoras trilladoras, aunque no comprendo por qué la Comisión no lo dijo claramente." "los - S, M
+"Para los que se interesan por esta cuestión diré que se trata de los tractores y de las máquinas segadoras trilladoras, aunque no comprendo por qué la Comisión no lo dijo claramente." "los - P, M
 cuestión - N, F
 tractores - N, M
 máquinas - N, F
@@ -756,12 +756,12 @@ normas - N, F"
 
 "La reglamentación propuesta es buena, no plantea problemas, y todos estamos de acuerdo, con una sola excepción." "reglamentación - N, F
 problemas - N, M
-todos - S, M
+todos - P, M
 excepción - N, F"
 
 "Estamos hablando de una cuestión que tiene un título que nadie puede entender o de la que nadie se preocupa, pero también estamos hablando de comitología." "cuestión - N, F
 título - N, M
-nadie - S, M
+nadie - P, M
 comitología - N, F"
 
 "La industria tendrá sólo nueve meses para la certificación de la categoría de motor más importante y quedarán únicamente tres años y tres meses del período de estabilización entre la primera y la segunda fase en cuanto a los requisitos sobre emisiones para la categoría de motor más importante." "industria - N, F
@@ -783,4 +783,4 @@ motor - N, M"
 fosfato - N, M
 contra - N, F
 opinión - N, F
-científicos - S, M"
+científicos - P, M"
